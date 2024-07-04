@@ -9,11 +9,11 @@ Dwight has enlisted the help of Jim to handle the party planning, Kevin for cate
 
 ## Links
 
-- [Back-end GitHub Repository](https://github.com/your-username/budgeting-app-backend)
-- [Front-end GitHub Repository](https://github.com/your-username/budgeting-app-frontend)
-- [Deployed Back-end URL](https://budgeting-app-backend.onrender.com)
-- [Deployed Front-end URL](https://budgeting-app-frontend.vercel.app)
-- [Trello Board](https://trello.com/b/your-board-id)
+- [Back-end GitHub Repository](https://github.com/CSAN7690/backend-dwights-budgeting-app)
+- [Front-end GitHub Repository]()
+- [Deployed Back-end URL](https://backend-dwights-budgeting-app.onrender.com)
+- [Deployed Front-end URL]()
+- [Trello Board](https://trello.com/b/ubHXeUNH/dwights-budgeting-app-backend)
 
 ## API Endpoints
 
